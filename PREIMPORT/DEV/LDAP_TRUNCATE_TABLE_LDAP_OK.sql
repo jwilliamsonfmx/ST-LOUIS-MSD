@@ -1,0 +1,3 @@
+Delete from [EZV_ADMIN].[E_MSD_LDAP_USERS_OK];
+
+Delete from [EZV_ADMIN].[E_MSD_LDAP_ARCHIVED_USERS_OK];

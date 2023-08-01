@@ -1,0 +1,300 @@
+#@ Row 1, Column 13: Invalid date format @#
+Sewer_acct	Sewer_acct	<NULL>		<NULL>	<NULL>	<NULL>	<NULL>	<NULL>	<NULL>	
+Exchange Online-ApplicationAccount	$FHV000-T391FSNKFOGS		
+#@ Row 2, Column 13: Invalid date format @#
+MaryJo Gonzales	MJPAWL	MJPAWL@stlmsd.com		Market	Information Technology	IT - Infrastructure Operations	CN=Jason Stockmann,OU=Information Systems,OU=Employee,OU=Accounts,OU=Market,OU=Sites,DC=stlmsd,DC=com	Server Administrator Supervisor	314-768-6305	4580
+Test User	testuser	testuser@stlmsd.com	
+#@ Row 3, Column 13: Invalid date format @#
+David Keckritz	dkeckritz	DKECKRITZ@stlmsd.com		Market	Information Technology	IT - Infrastructure Operations	CN=MaryJo Gonzales,OU=Information Systems,OU=Employee,OU=Accounts,OU=Market,OU=Sites,DC=stlmsd,DC=com	IT Specialist II - Server Administrator	314-335-2106	4580
+SystemMailbox{bb558c35-97f1-4cb9-8ff7-d53741dc928c}	SM_e518d36d172d4705b	SystemMailbox{bb558c35-97f1-4cb9-8ff7-d53741dc928c}@stlmsd.com	
+#@ Row 4, Column 13: Invalid date format @#
+Guest	Sewer_gst	<NULL>		<NULL>	<NULL>	<NULL>	<NULL>	<NULL>	<NULL>	
+DefaultAccount	DefaultAccount		
+#@ Row 5, Column 13: Invalid date format @#
+krbtgt	krbtgt	<NULL>		<NULL>	<NULL>	<NULL>	<NULL>	<NULL>	<NULL>	
+OpenDNS_Connector	OpenDNS_Connector		
+#@ Row 6, Column 13: Invalid date format @#
+Tivoli Backup Admin Account	TSMAdmin	<NULL>		<NULL>	<NULL>	<NULL>	<NULL>	<NULL>	<NULL>	
+rc80122	rc80122		
+#@ Row 7, Column 13: Invalid date format @#
+jl21387	jl21387	<NULL>		<NULL>	<NULL>	<NULL>	<NULL>	<NULL>	<NULL>	
+jw12905	jw12905		
+#@ Row 8, Column 13: Invalid date format @#
+CW009033	CW009033	CW009033@stlmsd.com		<NULL>	<NULL>	<NULL>	<NULL>	<NULL>	<NULL>	
+Darius Charleston	dariusc	dariusc@stlmsd.com	
+#@ Row 9, Column 13: Invalid date format @#
+je85326	je85326	<NULL>		<NULL>	<NULL>	<NULL>	<NULL>	<NULL>	<NULL>	
+jm008376	jm008376		
+#@ Row 10, Column 13: Invalid date format @#
+Mike Carnaghi	MCARNAGH	MCARNAGH@stlmsd.com		Market	Information Technology	IT - Infrastructure Operations	CN=MaryJo Gonzales,OU=Information Systems,OU=Employee,OU=Accounts,OU=Market,OU=Sites,DC=stlmsd,DC=com	IT Specialist II - Server Administrator	314-768-6251	4580
+km010106	km010106		
+#@ Row 11, Column 13: Invalid date format @#
+BB12569	BB12569	<NULL>		<NULL>	<NULL>	<NULL>	<NULL>	<NULL>	<NULL>	
+Gabriel Mohler	gmohler	gmohler@stlmsd.com	
+#@ Row 12, Column 13: Invalid date format @#
+Rob Turley	rturley	rturley@stlmsd.com		Market	Information Technology	IT - Infrastructure Operations	CN=Jason Stockmann,OU=Information Systems,OU=Employee,OU=Accounts,OU=Market,OU=Sites,DC=stlmsd,DC=com	Information Technology Program Manager	314-646-2466	4580
+ServiceAdmin	ServiceAdmin		
+#@ Row 13, Column 13: Invalid date format @#
+cc006738	cc006738	<NULL>		<NULL>	<NULL>	<NULL>	<NULL>	<NULL>	<NULL>	
+SMSAdmin	SMSAdmin	SMSAdmin@stlmsd.com	
+#@ Row 14, Column 13: Invalid date format @#
+Migrate Admin	MigrateAdmin	MigrateAdmin@stlmsd.com		<NULL>	<NULL>	<NULL>	<NULL>	<NULL>	<NULL>	
+mk0121	mk0121		
+#@ Row 15, Column 13: Invalid date format @#
+rt44907	rt44907	<NULL>		<NULL>	<NULL>	<NULL>	<NULL>	<NULL>	<NULL>	
+661164	661164		
+#@ Row 16, Column 13: Invalid date format @#
+dk4028	dk4028	<NULL>		<NULL>	<NULL>	IT - Technical Services	<NULL>	IT - Technical Services	<NULL>	
+SUPPORT_388945a0	SUPPORT_388945a0		
+#@ Row 17, Column 13: Invalid date format @#
+Christopher Patrick	cpatrick	cpatrick@stlmsd.com		Grand Glaize Yard	Operations	Operations - Grand Glaize Yard	CN=Edward Laux,OU=Operations,OU=Employee,OU=Accounts,OU=Grand Glaize and County,OU=Sites,DC=stlmsd,DC=com	Operations Manager	314-335-2010	6055
+Conf MKT Legal Library	confmktlegal	confmktlegal@stlmsd.com	
+#@ Row 18, Column 13: Invalid date format @#
+SystemMailbox{1f05a927-322c-44ca-98eb-4d3fbe8c7d53}	SM_de0d1fee6c7e4e439	SystemMailbox{1f05a927-322c-44ca-98eb-4d3fbe8c7d53}@stlmsd.com		<NULL>	<NULL>	<NULL>	<NULL>	<NULL>	<NULL>	
+Conf MKT 214	confmkt214	confmkt214@stlmsd.com	
+#@ Row 19, Column 13: Invalid date format @#
+APUser	apuser	apuser@stlmsd.com		<NULL>	<NULL>	<NULL>	<NULL>	<NULL>	6295	
+Sunshine Requests	SunshineRequests	SunshineRequests@stlmsd.com	
+#@ Row 20, Column 13: Invalid date format @#
+lieninfo	lieninfo	lieninfo@stlmsd.com		<NULL>	<NULL>	<NULL>	<NULL>	<NULL>	<NULL>	
+Brad Nevois	blnevo	BLNEVO@stlmsd.com	
+#@ Row 21, Column 13: Invalid date format @#
+Opalis	Opalis	Opalis@stlmsd.com		<NULL>	<NULL>	<NULL>	<NULL>	<NULL>	<NULL>	
+Conf MKT 215	confmkt215	confmkt215@stlmsd.com	
+#@ Row 22, Column 13: Invalid date format @#
+Suppliers	suppliers	suppliers@stlmsd.com		<NULL>	<NULL>	<NULL>	<NULL>	<NULL>	<NULL>	
+Webmaster	Webmaster	Webmaster@stlmsd.com	
+#@ Row 23, Column 13: Invalid date format @#
+Operations Administrative Support	OPS-SUP	OPS-SUP@stlmsd.com		<NULL>	<NULL>	<NULL>	<NULL>	<NULL>	<NULL>	
+Tracy Sigmund	TRODGERS	TRODGERS@stlmsd.com	
+#@ Row 24, Column 13: Invalid date format @#
+John Grimm	JCGRIM	JCGRIM@stlmsd.com		Market	Engineering	Engineering - Planning - Development Review	CN=Bruce Litzsinger,OU=Engineering,OU=Employee,OU=Accounts,OU=Market,OU=Sites,DC=stlmsd,DC=com	Program Manager	314-768-2743	8030
+Sanjiv Shekhar	sshekhar	SSHEKHAR@stlmsd.com	
+#@ Row 25, Column 13: Invalid date format @#
+Mike Gindler	MGINDLER	MGINDLER@stlmsd.com		Market	Finance	Finance - Administration	CN=Marion M. Gee,OU=Finance,OU=Employee,OU=Accounts,OU=Market,OU=Sites,DC=stlmsd,DC=com	Assistant Dir of Finance	314-768-6233	4010
+Steven P. Adams	sadams	sadams@stlmsd.com	
+#@ Row 26, Column 13: Invalid date format @#
+Ranjul Dayal	RDayal	RDayal@stlmsd.com		Market	Information Technology	IT - Infrastructure Operations	CN=Ginny Kienstra,OU=Information Systems,OU=Employee,OU=Accounts,OU=Market,OU=Sites,DC=stlmsd,DC=com	Contractor	314-335-2022	
+Kevin Cadieux	KCADIEUX	KCADIEUX@stlmsd.com	
+#@ Row 27, Column 13: Invalid date format @#
+Jonathon Sprague	jsprague	JSPRAGUE@stlmsd.com		Market	Information Technology	IT - Administration	CN=Brian Hoelscher,OU=Executive Director,OU=Employee,OU=Accounts,OU=Market,OU=Sites,DC=stlmsd,DC=com	Director of Information Technology	314-768-6261 Ext:6261	04510
+Bruce Litzsinger	blitzsin	BLITZSIN@stlmsd.com	
+#@ Row 28, Column 13: Invalid date format @#
+Jerry L. Jung	jjung	jjung@stlmsd.com		Market	Engineering	Engineering - Design - Capital Projects	CN=James Dunajcik,OU=Engineering,OU=Employee,OU=Accounts,OU=Market,OU=Sites,DC=stlmsd,DC=com	Civil Engineer Senior	314-768-6226	8020
+Venu Budiga	VBUDIGA	VBUDIGA@stlmsd.com	
+#@ Row 29, Column 13: Invalid date format @#
+Jeff Shiner	JKSHIN	JKSHIN@stlmsd.com		Market	Engineering	Engineering - Planning - Program Planning	CN=Bruce Litzsinger,OU=Engineering,OU=Employee,OU=Accounts,OU=Market,OU=Sites,DC=stlmsd,DC=com	Program Manager	314-768-2796	8030
+Naveen Chepuri	nchepuri	nchepuri@stlmsd.com	
+#@ Row 30, Column 13: Invalid date format @#
+Greg Snelling	GASNEL	GASNEL@stlmsd.com		Market	Information Technology	IT - Business Technology	CN=Cassandra Gordon,OU=Information Systems,OU=Employee,OU=Accounts,OU=Market,OU=Sites,DC=stlmsd,DC=com	Business Analyst Specialist	314-335-2078	4550
+Karen Barton	KBARTON	KBARTON@stlmsd.com	
+#@ Row 31, Column 13: Invalid date format @#
+Bonnie S Hubert	bhubert	bhubert@stlmsd.com		Market	Engineering	Engineering - Planning - Project Identification/CIP	CN=Bruce Litzsinger,OU=Engineering,OU=Employee,OU=Accounts,OU=Market,OU=Sites,DC=stlmsd,DC=com	Program Manager	314-768-2781	8030
+Erin Snelling	EMACKE	EMACKE@stlmsd.com	
+#@ Row 32, Column 13: Invalid date format @#
+Saravanan Palanivel	spalanivel	spalanivel@stlmsd.com		Market	Information Technology	IT - Infrastructure Operations	CN=Ginny Kienstra,OU=Information Systems,OU=Employee,OU=Accounts,OU=Market,OU=Sites,DC=stlmsd,DC=com	Contractor	314-335-2216	
+Crystal Hibbert	CBORDERS	chibbert@stlmsd.com	
+#@ Row 33, Column 13: Invalid date format @#
+Alex Moore	amoore	amoore@stlmsd.com		Mintert Yard	Operations	Operations - Mintert Yard	CN=Ethan Waters,OU=Operations,OU=Employee,OU=Accounts,OU=Mintert,OU=Sites,DC=stlmsd,DC=com	Civil Engineer	314-335-2026	6051
+Bret A. Berthold	bberthold	bberthold@stlmsd.com	
+#@ Row 34, Column 13: Invalid date format @#
+John Welch	jwelch	JWELCH@stlmsd.com		Sulphur Yard	Operations	Operations - Sulphur Yard	CN=Debra Aylsworth,OU=Operations,OU=Employee,OU=Accounts,OU=Sulphur,OU=Sites,DC=stlmsd,DC=com	Operations Division Manager	314-335-2040	6052
+Catherine Politte	cpolitte	cpolitte@stlmsd.com	
+#@ Row 35, Column 13: Invalid date format @#
+Chris Pfeuffer	cxpfeu	cxpfeu@stlmsd.com		Grand Glaize Plant	Operations	Operations - Grand Glaize Treatment Plant	CN=Brian McGownd,OU=Operations,OU=Employee,OU=Accounts,OU=Market,OU=Sites,DC=stlmsd,DC=com	Operations Division Manager	636-861-6701	6026
+Rob G Daly	rdaly	rdaly@stlmsd.com	
+#@ Row 36, Column 13: Invalid date format @#
+Ed Cope	ercope	ERCOPE@stlmsd.com		Market	Operations	Operations - Asset Management	CN=Bret A. Berthold,OU=Operations,OU=Employee,OU=Accounts,OU=Market,OU=Sites,DC=stlmsd,DC=com	Asset Management Manager	314-646-2450	6011
+Brian McGownd	bmcgownd	bmcgownd@stlmsd.com	
+#@ Row 37, Column 13: Invalid date format @#
+Scott Rehmer	SREHMER	SREHMER@stlmsd.com		Bissell Plant	Engineering	Engineering - Environmental Compliance - Industrial Pretreatment	CN=Doug Mendoza,OU=Engineering,OU=Employee,OU=Accounts,OU=Bissell Point,OU=Sites,DC=stlmsd,DC=com	Assistant Engineer	314-436-8756	8050
+Christopher J. Bulmahn	cjbulmahn	cjbulmahn@stlmsd.com	
+#@ Row 38, Column 13: Invalid date format @#
+Joe Switzer	jswitzer	jswitzer@stlmsd.com		Market	Operations	Operations - Materials Management	CN=Ceasar Rossi,OU=Operations,OU=Employee,OU=Accounts,OU=Market,OU=Sites,DC=stlmsd,DC=com	Purchasing Agent	314-768-2738	6011
+Ericka Strong	ESTRONG	ESTRONG@stlmsd.com	
+#@ Row 39, Column 13: Invalid date format @#
+Fran Steininger	FJSTEI	FJSTEI@stlmsd.com		Market	Engineering	Engineering - Planning - Permits	CN=Terri Stewart,OU=Engineering,OU=Employee,OU=Accounts,OU=Market,OU=Sites,DC=stlmsd,DC=com	Office Associate	314-768-2739	8030
+EQ Car 479	eqcar479	eqcar479@stlmsd.com	
+#@ Row 40, Column 13: Invalid date format @#
+Doug Perley	DPERL	DPERL@stlmsd.com		Grand Glaize County Pump	Operations	Operations - County Pump Station	CN=Mark Bright,OU=Operations,OU=Employee,OU=Accounts,OU=Grand Glaize and County,OU=Sites,DC=stlmsd,DC=com	Pump Station Maintenance Tech	<NULL>	6035
+ESRP Workflow	esrp3wflow	esrp3wflow@stlmsd.com	
+#@ Row 41, Column 13: Invalid date format @#
+Keven Taylor	KTaylor	KTaylor@stlmsd.com		Lemay Plant	Operations	Operations - Materials Management	CN=Ceasar Rossi,OU=Operations,OU=Employee,OU=Accounts,OU=Market,OU=Sites,DC=stlmsd,DC=com	Warehouse Technician	636-861-6743	6011
+Carole Willis	CLWILL	CLWILL@stlmsd.com	
+#@ Row 42, Column 13: Invalid date format @#
+Brian Hoelscher	blhoel	BLHOEL@stlmsd.com		Market	Executive Director Division	Executive Director	<NULL>	Executive Director	314-768-6245	3010
+Rich Unverferth	rlunve	RLUNVE@stlmsd.com	
+#@ Row 43, Column 13: Invalid date format @#
+Rob Brand	RBRAN	RBRAN@stlmsd.com		Market	Information Technology	IT - Business Technology	CN=Julia Cole,OU=Information Systems,OU=Employee,OU=Accounts,OU=Market,OU=Sites,DC=stlmsd,DC=com	Business Analyst Specialist	314-646-2454 Ext:2454	04550
+Sharon Parker	SLHOLT	SLHOLT@stlmsd.com	
+#@ Row 44, Column 13: Invalid date format @#
+Danny R. Lindley	dlindley	dlindley@stlmsd.com		Market	Engineering	Engineering - Design - Project Design	CN=Michael Buechter,OU=Engineering,OU=Employee,OU=Accounts,OU=Market,OU=Sites,DC=stlmsd,DC=com	Civil Engineer Senior	314-335-2055	8020
+Madhukar Mohan	mmohan	mmohan@stlmsd.com	
+#@ Row 45, Column 13: Invalid date format @#
+Jeffrey Riepe	JARIEP	JARIEP@stlmsd.com		Market	Engineering	Engineering - Planning - Program Planning	CN=Jeff Shiner,OU=Engineering,OU=Employee,OU=Accounts,OU=Market,OU=Sites,DC=stlmsd,DC=com	Principal Engineer	314-768-6271	8030
+Betsy Schubert	bschubert	bschubert@stlmsd.com	
+#@ Row 46, Column 13: Invalid date format @#
+Jennifer C Welsch	jwelsch	jwelsch@stlmsd.com		Market	Engineering	Engineering - Design - Capital Projects	CN=James Dunajcik,OU=Engineering,OU=Employee,OU=Accounts,OU=Market,OU=Sites,DC=stlmsd,DC=com	Principal Engineer	314-335-2059	8020
+Sherri Sayle	ssayle	SSAYLE@stlmsd.com	
+#@ Row 47, Column 13: Invalid date format @#
+Bart Hager	BXHAGE	BXHAGE@stlmsd.com		Market	Engineering	Engineering - Planning - Project Identification/CIP	CN=Bonnie S Hubert,OU=Engineering,OU=Employee,OU=Accounts,OU=Market,OU=Sites,DC=stlmsd,DC=com	Civil Engineer Senior	314-768-6208	8030
+Susan Myers	smyers	SMYERS@stlmsd.com	
+#@ Row 48, Column 13: Invalid date format @#
+Laura Duffin	lduffin	lduffin@stlmsd.com		Market	General Counsel	General Counsel - District Administration	CN=Susan Myers,OU=General Counsel,OU=Employee,OU=Accounts,OU=Market,OU=Sites,DC=stlmsd,DC=com	Office Associate Senior	314-768-6202	5520
+Gina Jamison	GJAMISON	GJAMISON@stlmsd.com	
+#@ Row 49, Column 13: Invalid date format @#
+Ceasar Rossi	crossi	CROSSI@stlmsd.com		Market	Operations	Operations - Materials Management	CN=Bret A. Berthold,OU=Operations,OU=Employee,OU=Accounts,OU=Market,OU=Sites,DC=stlmsd,DC=com	Operations Supervisor	314-768-2722	6011
+Diane Rulo	DLDICK	DLDICK@stlmsd.com	
+#@ Row 50, Column 13: Invalid date format @#
+Rosemary Krewet	RAKREW	RAKREW@stlmsd.com		Market	Information Technology	IT - Business Technology	CN=Kevin Cadieux,OU=Information Systems,OU=Employee,OU=Accounts,OU=Market,OU=Sites,DC=stlmsd,DC=com	Business Analyst Specialist	314-768-2786	4550
+Steve Trenz	strenz	strenz@stlmsd.com	
+#@ Row 51, Column 13: Invalid date format @#
+Donna Morris	DMORRIS	DMORRIS@stlmsd.com		Market	Information Technology	IT - Business Technology	CN=Michelle Simmons-Vinson,OU=Information Systems,OU=Employee,OU=Accounts,OU=Market,OU=Sites,DC=stlmsd,DC=com	Business Analyst Specialist	314-768-6247	4550
+Matthew Rowland	mrowland	mrowland@stlmsd.com	
+#@ Row 52, Column 13: Invalid date format @#
+Marla Hart	MHART	mhart@stlmsd.com		Market	Secretary Treasurer	Secretary Treasurer - Administration	CN=Tim Snoke,OU=Secretary-Treasurer,OU=Employee,OU=Accounts,OU=Market,OU=Sites,DC=stlmsd,DC=com	Account Associate	314-768-6231	1110
+Christina Large	CLARGE	CLarge@stlmsd.com	
+#@ Row 53, Column 13: Invalid date format @#
+Carol Austin	CAUSTIN	CAUSTIN@stlmsd.com		Market	Secretary Treasurer	Secretary Treasurer - Administration	CN=Tim Snoke,OU=Secretary-Treasurer,OU=Employee,OU=Accounts,OU=Market,OU=Sites,DC=stlmsd,DC=com	Treasury Associate	314-335-2062	1110
+Doug Mendoza	dmendoza	DMENDOZA@stlmsd.com	
+#@ Row 54, Column 13: Invalid date format @#
+Linton Reeves	LREEVES	LREEVES@stlmsd.com		Market	Information Technology	IT - Business Technology	CN=Michelle Simmons-Vinson,OU=Information Systems,OU=Employee,OU=Accounts,OU=Market,OU=Sites,DC=stlmsd,DC=com	Business Analyst Specialist	314-335-2164	4550
+Dea Dlugos	DDLUGOS	DDLUGOS@stlmsd.com	
+#@ Row 55, Column 13: Invalid date format @#
+Cynthia Womack	CWOMACK	CWOMACK@stlmsd.com		Market	Finance	Finance - Billing and Collections - Research	CN=Nicole Stewart,OU=Finance,OU=Employee,OU=Accounts,OU=Market,OU=Sites,DC=stlmsd,DC=com	Account Associate	314-768-6221	4055
+Karen  McDowell	KMCDOW	KMCDOW@stlmsd.com	
+#@ Row 56, Column 13: Invalid date format @#
+Mike Levison	MLEVISON	MLEVISON@stlmsd.com		Market	Finance	Finance - Administration	CN=Mike Gindler,OU=Finance,OU=Employee,OU=Accounts,OU=Market,OU=Sites,DC=stlmsd,DC=com	Financial Analyst Senior	314-335-2204	4010
+Sylvia Ryker	SSTAUF	SSTAUF@stlmsd.com	
+#@ Row 57, Column 13: Invalid date format @#
+Jean Ferguson	jferguson1	jferguson1@stlmsd.com		Market	Finance	Finance - Accounting - Administration	CN=Marion M. Gee,OU=Finance,OU=Employee,OU=Accounts,OU=Market,OU=Sites,DC=stlmsd,DC=com	Accounting Manager	314-335-2020	04031
+BILLING QUESTION	BILLINGQUEST	BILLINGQUEST@stlmsd.com	
+#@ Row 58, Column 13: Invalid date format @#
+Mary Wimsatt	MWIMSATT	MWIMSATT@stlmsd.com		Market	Finance	Finance - Billing and Collections - Processing	CN=Nicole Stewart,OU=Finance,OU=Employee,OU=Accounts,OU=Market,OU=Sites,DC=stlmsd,DC=com	Account Associate Senior	314-335-2024	4054
+Karen Edwards	KKRUEGER	KKRUEGER@stlmsd.com	
+#@ Row 59, Column 13: Invalid date format @#
+Jacqueline Gibson	jrgibs	jrgibs@stlmsd.com		Market	Finance	Finance - Billing and Collections - Operations	CN=Alberta M. Walker,OU=Finance,OU=Employee,OU=Accounts,OU=Market,OU=Sites,DC=stlmsd,DC=com	Account Associate	314-335-2119	4052
+Don Davis	DDAVIS	DDAVIS@stlmsd.com	
+#@ Row 60, Column 13: Invalid date format @#
+Robert Miller	RAMILL	RAMILL@stlmsd.com		Market	Engineering	Engineering - Planning - Development Review	CN=John Grimm,OU=Engineering,OU=Employee,OU=Accounts,OU=Market,OU=Sites,DC=stlmsd,DC=com	Principal Engineer	314-335-2053	8030
+Jim Derby	JCDERB	JCDERB@stlmsd.com	
+#@ Row 61, Column 13: Invalid date format @#
+Dave Sauer	DSAUER	DSAUER@stlmsd.com		Market	Information Technology	IT - Business Technology	CN=Crystal Hibbert,OU=Information Systems,OU=Employee,OU=Accounts,OU=Market,OU=Sites,DC=stlmsd,DC=com	Programmer Analyst Senior	314-768-6209	4550
+Vinay Pannala	VPANNALA	VPANNALA@stlmsd.com	
+#@ Row 62, Column 13: Invalid date format @#
+Terri Stewart	tcstew	TCSTEW@stlmsd.com		Market	Engineering	Engineering - Planning - Permits	CN=Bruce Litzsinger,OU=Engineering,OU=Employee,OU=Accounts,OU=Market,OU=Sites,DC=stlmsd,DC=com	Administrative Support Manager	314-768-6288	8030
+Rose Jackson	RMJACK	RMJACK@stlmsd.com	
+#@ Row 63, Column 13: Invalid date format @#
+Wendi Comello	WCOMELLO	wcomello@stlmsd.com		Market	Executive Director Division	Executive Director	CN=Brian Hoelscher,OU=Executive Director,OU=Employee,OU=Accounts,OU=Market,OU=Sites,DC=stlmsd,DC=com	Executive Assistant	314-768-6224	3010
+Jeffrey Smith	JMSMIT	JMSMIT@stlmsd.com	
+#@ Row 64, Column 13: Invalid date format @#
+Steven M Roberts	sroberts	sroberts@stlmsd.com		Market	Engineering	Engineering - Planning - Development Review	CN=John Grimm,OU=Engineering,OU=Employee,OU=Accounts,OU=Market,OU=Sites,DC=stlmsd,DC=com	Civil Engineer	314-768-6310	8030
+Patricia Pride	PAPRID	PAPRID@stlmsd.com	
+#@ Row 65, Column 13: Invalid date format @#
+Jeffrey Meyer	JAMEYE	JAMEYE@stlmsd.com		Market	Engineering	Engineering - Design - Capital Projects	CN=James Dunajcik,OU=Engineering,OU=Employee,OU=Accounts,OU=Market,OU=Sites,DC=stlmsd,DC=com	Principal Engineer	314-768-2724	8020
+Mike Waxman	MWAXMAN	MWAXMAN@stlmsd.com	
+#@ Row 66, Column 13: Invalid date format @#
+Mark Bright	mgbrig	MGBRIG@stlmsd.com		Grand Glaize County Pump	Operations	Operations - County Pump Station	CN=Jay Kniker,OU=Operations,OU=Employee,OU=Accounts,OU=Bissell Point,OU=Sites,DC=stlmsd,DC=com	Operations Supervisor	636-861-6735	6035
+Brian Blackwell	BBlackwell	BBlackwell@stlmsd.com	
+#@ Row 67, Column 13: Invalid date format @#
+Jay Kniker	jkniker	jkniker@stlmsd.com		Grand Glaize County Pump	Operations	Operations - Technical Services	CN=Brian McGownd,OU=Operations,OU=Employee,OU=Accounts,OU=Market,OU=Sites,DC=stlmsd,DC=com	Operations Division Manager	314-436-8703	6031
+Michael Kelly	MDKELL	MDKELL@stlmsd.com	
+#@ Row 68, Column 13: Invalid date format @#
+Michelle Meier	MJMEIR	MJMEIR@stlmsd.com		Market	Engineering	Engineering - Planning - Program Planning	CN=Jeff Shiner,OU=Engineering,OU=Employee,OU=Accounts,OU=Market,OU=Sites,DC=stlmsd,DC=com	Civil Engineer Senior	314-768-2794	8030
+Jon Winslow	jwinslow	JWINSLOW@stlmsd.com	
+#@ Row 69, Column 13: Invalid date format @#
+Roland Biehl	RABIEH	RABIEH@stlmsd.com		Bissell Plant	Engineering	Engineering - Environmental Compliance - Compliance Program	CN=Jason Peterein,OU=Engineering,OU=Employee,OU=Accounts,OU=Bissell Point,OU=Sites,DC=stlmsd,DC=com	Environmental Specialist	314-436-8715	8050
+Julia Cole	JCOLE	JCOLE@stlmsd.com	
+#@ Row 70, Column 13: Invalid date format @#
+Alex C. Marth	amarth	amarth@stlmsd.com		Market	Information Technology	IT - Business Technology	CN=Kevin Cadieux,OU=Information Systems,OU=Employee,OU=Accounts,OU=Market,OU=Sites,DC=stlmsd,DC=com	Programmer Analyst Senior	314-335-2210	4550
+Santosh Bonkur	sbonkur	sbonkur@stlmsd.com	
+#@ Row 71, Column 13: Invalid date format @#
+Todd A. Loretta	tloretta	tloretta@stlmsd.com		Market	Secretary Treasurer	Secretary Treasurer - Audit Work	CN=Tim Snoke,OU=Secretary-Treasurer,OU=Employee,OU=Accounts,OU=Market,OU=Sites,DC=stlmsd,DC=com	Audit Administrator	314-768-6281	1140
+Tim Cox	TDCOX	TDCOX@stlmsd.com	
+#@ Row 72, Column 13: Invalid date format @#
+Kurt Richeson	KDRICH	KDRICH@stlmsd.com		Market	Engineering	Engineering - Design - Right-of-Way/Survey	CN=Jennifer J. Moll,OU=Engineering,OU=Employee,OU=Accounts,OU=Market,OU=Sites,DC=stlmsd,DC=com	Surveyor	314-768-2732	8020
+David Foster	DFoster	DFoster@stlmsd.com	
+#@ Row 73, Column 13: Invalid date format @#
+Michael McFarlin	mmcfarlin	mmcfarlin@stlmsd.com		Bissell Pump	Operations	Operations - Bissell Pump Station	CN=John Lawson,OU=Operations,OU=Employee,OU=Accounts,OU=Bissell Point,OU=Sites,DC=stlmsd,DC=com	Pump Station Maintenance Tech	<NULL>	6032
+Michael Adams	MAdams	MAdams@stlmsd.com	
+#@ Row 74, Column 13: Invalid date format @#
+Jason C. Sanders	jcsanders	jcsanders@stlmsd.com		Mintert Yard	Operations	Operations - Mintert Yard - Maintenance	CN=Edwin Young,OU=Operations,OU=Employee,OU=Accounts,OU=Grand Glaize and County,OU=Sites,DC=stlmsd,DC=com	Collection Systems Technician	<NULL>	6051
+Brittany Douglas	bdouglas	bdouglas@stlmsd.com	
+#@ Row 75, Column 13: Invalid date format @#
+Steve L Bukowsky	sbukowsky	sbukowsky@stlmsd.com		Grand Glaize County Pump	Operations	Operations - County Pump Station	CN=Mark Bright,OU=Operations,OU=Employee,OU=Accounts,OU=Grand Glaize and County,OU=Sites,DC=stlmsd,DC=com	Pump Station Maintenance Tech	<NULL>	6035
+Brian P. Rothlisberger	brothlis	brothlis@stlmsd.com	
+#@ Row 76, Column 13: Invalid date format @#
+Craig Ballentine	CRBALL	CRBALL@stlmsd.com		Market	Human Resources	HR - Talent Development	CN=Belinda Farrington,OU=Accounts-Legal Hold Order,OU=Accounts,OU=Districtwide,DC=stlmsd,DC=com	Human Resources Generalist	314-768-6218 Ext:6218	02530
+Chad M. Skinner	cskinner	cskinner@stlmsd.com	
+#@ Row 77, Column 13: Invalid date format @#
+Richard S. Ahart	rahart	rahart@stlmsd.com		Coldwater Plant	Operations	Operations - Coldwater Treatment Plant	CN=Nathan Shroyer,OU=Operations,OU=Employee,OU=Accounts,OU=Coldwater,OU=Sites,DC=stlmsd,DC=com	Treatment Plant Operator Senior	<NULL>	6023
+Robert E. Thomas	rthomas	rthomas@stlmsd.com	
+#@ Row 78, Column 13: Invalid date format @#
+Shane Babson	SBabson	SBabson@stlmsd.com		Grand Glaize Plant	Operations	Operations - Grand Glaize Treatment Plant	CN=Gregory Amsden,OU=Operations,OU=Employee,OU=Accounts,OU=Grand Glaize and County,OU=Sites,DC=stlmsd,DC=com	Treatment Plant Operator Senior	<NULL>	6026
+Paul Klages	PKlages	PKlages@stlmsd.com	
+#@ Row 79, Column 13: Invalid date format @#
+Carlos Brown	CBrown	CBrown@stlmsd.com		Sulphur Yard	Operations	Operations - Sulphur Yard - Maintenance	CN=Francesco Abate,OU=Operations,OU=Employee,OU=Accounts,OU=Sulphur,OU=Sites,DC=stlmsd,DC=com	Collection Systems Technician	<NULL>	6052
+Paul Milton	PMILTON	PMILTON@stlmsd.com	
+#@ Row 80, Column 13: Invalid date format @#
+Eric Hemker	EHemker	EHemker@stlmsd.com		Bissell Plant	Operations	Operations - Bissell Treatment Plant - Operations	CN=Jabbar A. Thomas,OU=Operations,OU=Employee,OU=Accounts,OU=Grand Glaize and County,OU=Sites,DC=stlmsd,DC=com	Treatment Plant Team Leader	<NULL>	6022
+Steven Crader	SCrader	SCrader@stlmsd.com	
+#@ Row 81, Column 13: Invalid date format @#
+Mirl Hedger	MHedger	MHedger@stlmsd.com		Mintert Yard	Operations	Operations - Mintert Yard - Construction	CN=Paul Klages,OU=Operations,OU=Employee,OU=Accounts,OU=Mintert,OU=Sites,DC=stlmsd,DC=com	Collection Systems Operator - Construction	<NULL>	6051
+Mikal Hicks	MHICKS	MHICKS@stlmsd.com	
+#@ Row 82, Column 13: Invalid date format @#
+Marvis Thomas	MThomas	MThomas@stlmsd.com		Mintert Yard	Operations	Operations - Mintert Yard - Rehab	CN=Daniel Murphy,OU=Operations,OU=Employee,OU=Accounts,OU=Mintert,OU=Sites,DC=stlmsd,DC=com	Collection Systems Technician	<NULL>	6051
+Larry Woods	LWoods	LWoods@stlmsd.com	
+#@ Row 83, Column 13: Invalid date format @#
+David Wiegand	DWiegand	DWiegand@stlmsd.com		Grand Glaize Yard	Operations	Operations - Grand Glaize Yard - Rehab	CN=Robin Willis,OU=Operations,OU=Employee,OU=Accounts,OU=Grand Glaize and County,OU=Sites,DC=stlmsd,DC=com	Collection Systems Operator - Rehab	<NULL>	6055
+Samuel Bova	SJBOVA	SJBOVA@stlmsd.com	
+#@ Row 84, Column 13: Invalid date format @#
+Darrick White	DDWHITE	DDWHITE@stlmsd.com		Market	Engineering	Engineering - Design - Project Design	CN=Michael Buechter,OU=Engineering,OU=Employee,OU=Accounts,OU=Market,OU=Sites,DC=stlmsd,DC=com	Civil Engineer	314-335-2047	8020
+Edwin Young	EYoung	EYoung@stlmsd.com	
+#@ Row 85, Column 13: Invalid date format @#
+Michael D Brown	mdbrow	mdbrow2@stlmsd.com		Bissell Pump	Operations	Operations - Bissell Pump Station	CN=John Lawson,OU=Operations,OU=Employee,OU=Accounts,OU=Bissell Point,OU=Sites,DC=stlmsd,DC=com	Pump Station Maintenance Tech	314-565-8304	06032
+Karl Nowak	KNOWAK	KNOWAK@stlmsd.com	
+#@ Row 86, Column 13: Invalid date format @#
+Kendrick Lucas	KLUCAS	KLUCAS@stlmsd.com		Sulphur Yard	Operations	Operations - Sulphur Yard - Maintenance	CN=Francesco Abate,OU=Operations,OU=Employee,OU=Accounts,OU=Sulphur,OU=Sites,DC=stlmsd,DC=com	Collection Systems Technician	<NULL>	6052
+Sean M. Prudence	sprudence	sprudence@stlmsd.com	
+#@ Row 87, Column 13: Invalid date format @#
+Steve Johnson	sjohnson	sjohnson@stlmsd.com		Market	Engineering	Engineering - Construction Management - Capital Construction	CN=Tracy Sigmund,OU=Engineering,OU=Employee,OU=Accounts,OU=Market,OU=Sites,DC=stlmsd,DC=com	Construction Inspector Senior	<NULL>	8040
+Chris Brandt	cbrandt	cbrandt@stlmsd.com	
+#@ Row 88, Column 13: Invalid date format @#
+Mark Smith	MSMITH	MSMITH@stlmsd.com		Lemay Plant	Operations	Operations - Lemay Treatment Plant - Operations	CN=Eric M. Kelly,OU=Operations,OU=Employee,OU=Accounts,OU=Lemay Plant,OU=Sites,DC=stlmsd,DC=com	Treatment Plant Team Leader	<NULL>	6024
+Joseph J Grib	jgrib	jgrib@stlmsd.com	
+#@ Row 89, Column 13: Invalid date format @#
+Timothy Leuther	TLeuther	TLeuther@stlmsd.com		Missouri River Plant	Operations	Operations - Missouri River Treatment Plant	CN=Josh Leathers,OU=Operations,OU=Employee,OU=Accounts,OU=Missouri River,OU=Sites,DC=stlmsd,DC=com	Maintenance Mechanic III	314-335-2026	6029
+Robert Granberry	RGRANB	RGRANB@stlmsd.com	
+#@ Row 90, Column 13: Invalid date format @#
+Christopher Berkbigler	cberkbigler	cberkbigler@stlmsd.com		Lemay Pump	Operations	Operations - Lemay Pump Station	CN=James Tarbet,OU=Operations,OU=Employee,OU=Accounts,OU=Lemay Pump,OU=Sites,DC=stlmsd,DC=com	Pump Station Maintenance Tech	<NULL>	6034
+Robert Benne	RBENNE	RBENNE@stlmsd.com	
+#@ Row 91, Column 13: Invalid date format @#
+Art Middleton	AMIDDLE	AMIDDLE@stlmsd.com		Lemay Pump	Operations	Operations - Lemay Pump Station	CN=James Tarbet,OU=Operations,OU=Employee,OU=Accounts,OU=Lemay Pump,OU=Sites,DC=stlmsd,DC=com	Pump Station Maintenance Tech	314-638-5877	6034
+Mark Fout	mfout	MFOUT@stlmsd.com	
+#@ Row 92, Column 13: Invalid date format @#
+Tom Ellebracht	TELLEB	TELLEB@stlmsd.com		Grand Glaize Plant	Operations	Operations - Grand Glaize Treatment Plant	CN=Gregory Amsden,OU=Operations,OU=Employee,OU=Accounts,OU=Grand Glaize and County,OU=Sites,DC=stlmsd,DC=com	Treatment Plant Operator Senior	<NULL>	6026
+Michael Reichert	MReichert	MReichert@stlmsd.com	
+#@ Row 93, Column 13: Invalid date format @#
+Marnita Spight	mspight	mspight@stlmsd.com		Market	Executive Director Division	Executive Director - Diversity	CN=Shonnah Paredes,OU=Executive Director,OU=Employee,OU=Accounts,OU=Market,OU=Sites,DC=stlmsd,DC=com	MWBE Compliance Specialist	314-335-2129	03030
+Kevin Boyd	kboyd	KBOYD@stlmsd.com	
+#@ Row 94, Column 13: Invalid date format @#
+Joseph T. Catalano	jcatalano	jcatalano@stlmsd.com		Missouri River Plant	Operations	Operations - Missouri River Treatment Plant	CN=Josh Leathers,OU=Operations,OU=Employee,OU=Accounts,OU=Missouri River,OU=Sites,DC=stlmsd,DC=com	Maintenance Mechanic II	<NULL>	6029
+Darren Wynn	dwynn	dwynn@stlmsd.com	
+#@ Row 95, Column 13: Invalid date format @#
+Paul Heitert	PHeitert	PHeitert@stlmsd.com		Missouri River Plant	Operations	Operations - Missouri River Treatment Plant	CN=Josh Leathers,OU=Operations,OU=Employee,OU=Accounts,OU=Missouri River,OU=Sites,DC=stlmsd,DC=com	Treatment Plant Operator Senior	<NULL>	6029
+Joseph Swartz	JSwartz	JSwartz@stlmsd.com	
+#@ Row 96, Column 13: Invalid date format @#
+John Lawson	JLawson	JLawson@stlmsd.com		Bissell Pump	Operations	Operations - Bissell Pump Station	CN=Jay Kniker,OU=Operations,OU=Employee,OU=Accounts,OU=Bissell Point,OU=Sites,DC=stlmsd,DC=com	Operations Supervisor	314-436-8707	6032
+Nick Grissom	NGRISSOM	NGRISSOM@stlmsd.com	
+#@ Row 97, Column 13: Invalid date format @#
+Daniel Collett	DCollett	DCollett@stlmsd.com		Grand Glaize Yard	Operations	Operations - Grand Glaize Yard - Construction	CN=Michael H. Van Dyke,OU=Operations,OU=Employee,OU=Accounts,OU=Sulphur,OU=Sites,DC=stlmsd,DC=com	Collection Systems Technician	<NULL>	6055
+Michael Banks	mbanks	mbanks@stlmsd.com	
+#@ Row 98, Column 13: Invalid date format @#
+Demetrius Jackson	djackson	djackson@stlmsd.com		Market	Engineering	Engineering - Construction Management - Capital Construction	CN=Tracy Sigmund,OU=Engineering,OU=Employee,OU=Accounts,OU=Market,OU=Sites,DC=stlmsd,DC=com	Resident Inspector	<NULL>	8040
+Danny Franklin	DFranklin	DFranklin@stlmsd.com	
+#@ Row 99, Column 13: Invalid date format @#
+Jonathan C. Welch	JCWELCH	JCWELCH@stlmsd.com		Sulphur Yard	Operations	Operations - Sulphur Yard - Rehab	CN=Michael J McDowell,OU=Operations,OU=Employee,OU=Accounts,OU=Sulphur,OU=Sites,DC=stlmsd,DC=com	Collection Systems Team Leader I	<NULL>	6052
+Steven Sutter	SRSUTT	SRSUTT@stlmsd.com	
+#@ Row 100, Column 13: Invalid date format @#
+Douglas English	DEnglish	DEnglish@stlmsd.com		Grand Glaize Plant	Operations	Operations - Grand Glaize Treatment Plant	CN=Gregory Amsden,OU=Operations,OU=Employee,OU=Accounts,OU=Grand Glaize and County,OU=Sites,DC=stlmsd,DC=com	Horticulturist	<NULL>	6026
+Randall Broyles	RBroyles	RBroyles@stlmsd.com	
