@@ -1,0 +1,5 @@
+Catalog (Full Path);Code;Workflow;Default Urgency;Default Impact;Cannot Select
+CMDB Management;CMDB-MGT;;3 - Low;3 - Low;1
+CMDB Management/New CI;CMDB-NEWCI;_EV CMDB Management - New CI WF v1.0;3 - Low;3 - Low;0
+CMDB Management/Modify CI;CMDB-MODCI;_EV CMDB Management - Modify CI WF v1.0;3 - Low;3 - Low;0
+CMDB Management/Terminate CI;CMDB-TERMCI;_EV CMDB Management - Terminate CI WF v1.0;3 - Low;3 - Low;0
