@@ -466,3 +466,124 @@ SELECT TOP 1
 	COMMENT) + Len('@Manager_Email_1_E@')),'@Manager_Email_1_S@',''),'@Manager_Email_1_E@','') AS "Manager_Email"
 FROM SD_REQUEST
 WHERE REQUEST_ID IN (@ID@);
+
+
+
+--
+ALTER TABLE [50004].SD_REQUEST ADD E_NEW_EMP_EMAIL NVARCHAR(200)
+GO
+
+--
+UPDATE SD_REQUEST
+SET 	E_HR_EMPLOYEE_NAME = 
+    REPLACE(REPLACE(SUBSTRING(COMMENT, 
+                CHARINDEX('@Pending_Worker_Name_1_S@', 
+                COMMENT),
+                CHARINDEX('@Pending_Worker_Name_1_E@',
+                COMMENT) - CHARINDEX('@Pending_Worker_Name_1_S@', 
+                COMMENT) + Len('@Pending_Worker_Name_1_E@')),'@Pending_Worker_Name_1_S@',''),'@Pending_Worker_Name_1_E@','')
+WHERE REQUEST_ID IN (@ID@);
+
+UPDATE SD_REQUEST
+SET E_HR_START_DATE = 
+    REPLACE(REPLACE(SUBSTRING(COMMENT, 
+                CHARINDEX('@Start_Date_1_S@', 
+                COMMENT),
+                CHARINDEX('@Start_Date_1_E@',
+                COMMENT) - CHARINDEX('@Start_Date_1_S@', 
+                COMMENT) + Len('@Start_Date_1_E@')),'@Start_Date_1_S@',''),'@Start_Date_1_E@','')
+WHERE REQUEST_ID IN (@ID@);
+
+UPDATE SD_REQUEST
+SET E_HR_TITLE_1 = 
+    REPLACE(REPLACE(SUBSTRING(COMMENT, 
+                CHARINDEX('@Title_1_S@', 
+                COMMENT),
+                CHARINDEX('@Title_1_E@',
+                COMMENT) - CHARINDEX('@Title_1_S@', 
+                COMMENT) + Len('@Title_1_E@')),'@Title_1_S@',''),'@Title_1_E@','')
+WHERE REQUEST_ID IN (@ID@);
+
+UPDATE SD_REQUEST
+SET E_HR_MANAGER_NAME_1 = 
+    REPLACE(REPLACE(SUBSTRING(COMMENT, 
+                CHARINDEX('@Manager_Name_1_S@', 
+                COMMENT),
+                CHARINDEX('@Manager_Name_1_E@',
+                COMMENT) - CHARINDEX('@Manager_Name_1_S@', 
+                COMMENT) + Len('@Manager_Name_1_E@')),'@Manager_Name_1_S@',''),'@Manager_Name_1_E@','')
+WHERE REQUEST_ID IN (@ID@);
+
+UPDATE SD_REQUEST
+SET E_HR_MANAGER_NUMBER_1 = 
+    REPLACE(REPLACE(SUBSTRING(COMMENT, 
+                CHARINDEX('@Manager_Number_1_S@', 
+                COMMENT),
+                CHARINDEX('@Manager_Number_1_E@',
+                COMMENT) - CHARINDEX('@Manager_Number_1_S@', 
+                COMMENT) + Len('@Manager_Number_1_E@')),'@Manager_Number_1_S@',''),'@Manager_Number_1_E@','')
+WHERE REQUEST_ID IN (@ID@);
+
+UPDATE SD_REQUEST
+SET E_HR_DEPARTMENT_1 = 
+    REPLACE(REPLACE(SUBSTRING(COMMENT, 
+                CHARINDEX('@Department_1_S@', 
+                COMMENT),
+                CHARINDEX('@Department_1_E@',
+                COMMENT) - CHARINDEX('@Department_1_S@', 
+                COMMENT) + Len('@Department_1_E@')),'@Department_1_S@',''),'@Department_1_E@','')
+WHERE REQUEST_ID IN (@ID@);
+
+UPDATE SD_REQUEST
+SET E_HR_LOCATION_1 = 
+    REPLACE(REPLACE(SUBSTRING(COMMENT, 
+                CHARINDEX('@Location_1_S@', 
+                COMMENT),
+                CHARINDEX('@Location_1_E@',
+                COMMENT) - CHARINDEX('@Location_1_S@', 
+                COMMENT) + Len('@Location_1_E@')),'@Location_1_S@',''),'@Location_1_E@','')
+WHERE REQUEST_ID IN (@ID@);
+
+UPDATE SD_REQUEST
+SET E_NEW_EMP_NUMBER = 
+    REPLACE(REPLACE(SUBSTRING(COMMENT, 
+                CHARINDEX('@Pending_Worker_Number_1_S@', 
+                COMMENT),
+                CHARINDEX('@Pending_Worker_Number_1_E@',
+                COMMENT) - CHARINDEX('@Pending_Worker_Number_1_S@', 
+                COMMENT) + Len('@Pending_Worker_Number_1_E@')),'@Pending_Worker_Number_1_S@',''),'@Pending_Worker_Number_1_E@','')
+WHERE REQUEST_ID IN (@ID@);
+
+UPDATE SD_REQUEST
+SET E_NEW_EMP_EMAIL = 
+    REPLACE(REPLACE(SUBSTRING(COMMENT, 
+                CHARINDEX('@Manager_Email_S@', 
+                COMMENT),
+                CHARINDEX('@Manager_Email_E@',
+                COMMENT) - CHARINDEX('@Manager_Email_S@', 
+                COMMENT) + Len('@Manager_Email_E@')),'@Manager_Email_S@',''),'@Manager_Email_E@','')
+WHERE REQUEST_ID IN (@ID@);
+
+UPDATE SD_REQUEST
+SET TITLE = 'New Hire Onboarding Request'
+WHERE REQUEST_ID IN (@ID@);
+
+UPDATE R1
+SET R1.RECIPIENT_ID = E1.EMPLOYEE_ID
+FROM SD_REQUEST R1
+INNER JOIN AM_EMPLOYEE E1 ON E1.LAST_NAME LIKE R1.E_HR_MANAGER_NAME_1
+WHERE R1.REQUEST_ID IN (@ID@);
+
+
+
+/*
+UPDATE SD_REQUEST
+SET Comment = '
+New Employee:  #[DB_FIELDS.E_HR_WORKER_NAME_1]#,
+Start Date:  #[DB_FIELDS.E_HR_START_DATE_1]#,
+Title: #[DB_FIELDS.E_HR_START_DATE_1]#,
+Manager Name:  #[DB_FIELDS.E_HR_MANAGER_NAME_1]#,
+Manager Email:  #[DB_FIELDS.E_NEW_EMP_EMAIL]#,
+Department:  #[DB_FIELDS.E_HR_DEPARTMENT_1]#,'
+WHERE REQUEST_ID IN (@ID@);
+*/
