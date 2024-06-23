@@ -1,0 +1,35 @@
+UPDATE AM_ACTION
+SET AM_ACTION.STATUS_ID_ON_TERMINATE = (SELECT SD_STATUS.STATUS_ID 
+                                        FROM SD_STATUS
+                                        WHERE SD_STATUS.STATUS_GUID = '{C3D9DFA7-7A21-46C2-B3A3-8BC50C9FF4F3}'), 
+    AM_ACTION.END_DATE_UT = getutcdate()
+WHERE AM_ACTION.REQUEST_ID in (SELECT REQUEST_ID 
+                                FROM AM_ACTION 
+                                WHERE ACTION_ID IN (#LIST_ID#)) 
+AND AM_ACTION.END_DATE_UT IS NULL;
+
+UPDATE SD_REQUEST
+SET DESCRIPTION = ISNULL(Description,'') + '-AUTOCLOSED-',
+    SD_REQUEST.STATUS_ID = (SELECT STATUS_ID 
+                            FROM SD_STATUS
+                            WHERE STATUS_GUID = '{C3D9DFA7-7A21-46C2-B3A3-8BC50C9FF4F3}'), 
+    SD_REQUEST.END_DATE_UT = getutcdate()
+WHERE SD_REQUEST.REQUEST_ID in (SELECT REQUEST_ID 
+                                FROM AM_ACTION 
+                                WHERE ACTION_ID IN (#LIST_ID#));
+
+UPDATE AM_ACTION
+SET AM_ACTION.STATUS_ID_ON_TERMINATE = (SELECT SD_STATUS.STATUS_ID 
+                                        FROM SD_STATUS
+                                        WHERE SD_STATUS.STATUS_GUID = '{C3D9DFA7-7A21-46C2-B3A3-8BC50C9FF4F3}'), 
+    AM_ACTION.END_DATE_UT = getutcdate()
+WHERE AM_ACTION.REQUEST_ID in (#LIST_ID#) 
+AND AM_ACTION.END_DATE_UT IS NULL;
+
+UPDATE SD_REQUEST
+SET DESCRIPTION = ISNULL(Description,'') + '-AUTOCLOSED-',
+    SD_REQUEST.STATUS_ID = (SELECT STATUS_ID 
+                            FROM SD_STATUS
+                            WHERE STATUS_GUID = '{C3D9DFA7-7A21-46C2-B3A3-8BC50C9FF4F3}'), 
+    SD_REQUEST.END_DATE_UT = getutcdate()
+WHERE SD_REQUEST.REQUEST_ID in (#LIST_ID#);
